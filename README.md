@@ -1,4 +1,3 @@
-# DB2 via JDBC on Spring
-Use Spring to connect to a DB2 instance with JDBC
+# DB2 e JDBC com Spring
 
-Readme in progress(loading)...
+Use o Spring para se conectar a uma instância do DB2 com JDBC
